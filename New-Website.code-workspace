@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "New-Website-1",
+			"path": "../New-Website-1"
+		}
+	],
+	"settings": {}
+}
